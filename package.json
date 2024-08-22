@@ -425,6 +425,6 @@
   "dependencies": {
     "edit-json-file": "^1.7.0",
     "json-to-ast": "^2.1.0",
-    "node-fetch": "^3.3.0"
+    "node-fetch": "^3.3.2"
   }
 }
