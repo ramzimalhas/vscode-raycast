@@ -423,7 +423,7 @@
     "email": "tonka3100@gmail.com"
   },
   "dependencies": {
-    "edit-json-file": "^1.7.0",
+    "edit-json-file": "^1.8.0",
     "json-to-ast": "^2.1.0",
     "node-fetch": "^3.3.0"
   }
